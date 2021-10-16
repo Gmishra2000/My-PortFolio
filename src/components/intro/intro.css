@@ -19,11 +19,12 @@
 .i-left-wrapper{
     padding: 50px;
     height: 50%;
-    background-color: red;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
+
+
 .i-intro{
     font-size: 30px;
     font-weight: 300;
