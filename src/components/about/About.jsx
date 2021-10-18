@@ -15,23 +15,22 @@ const About = () => {
             <div className="a-right">
                 <h1 className="a-title">About Me</h1>
                 <p className="a-sub">
-                    It is a long established fact that a reader will be distracted by the
-                    readable content.
+                    I am an undergraduate in computer science from Mumbai University, currently in my final
+                    year of graduation ,looking for full time Job opportunities and internship.
                 </p>
                 <p className="a-desc">
-                    I am a undergraduate in computer science from 
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                    minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+                    I am fond of working on web technologies and use it in full effect to develop a
+                    dynamic and responsive websites. I have knowledge of Javascript, HTML, CSS and React
+                    library, also I love designing website protoype in Figma before making it live. I am now looking for an
+                    opportuninty to work on real time project and learn new things.
                 </p>
                 <div className="a-award">
                     <img src="assets/image/Home Page.png" alt="" className="a-award-img" />
                     <div className="a-award-texts">
-                        <h4 className="a-award-title">International Design Awards 2021</h4>
+                        <h4 className="a-award-title">UI Design</h4>
                         <p className="a-award-desc">
-                            Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-                            and fugit.
+                            My HomePage design which I created in Figma for making
+                            my Medicine Bank Project.
                         </p>
                     </div>
                 </div>
