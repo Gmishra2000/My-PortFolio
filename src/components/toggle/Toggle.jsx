@@ -13,7 +13,7 @@ const Toggle = () => {
             <div
                 className="t-button"
                 onClick={handleClick}
-                style={{ left: theme.state.darkMode ? 0 : 25.5}}
+                style={{ left: theme.state.darkMode ? 0 : 25}}
             ></div>
         </div>
     )

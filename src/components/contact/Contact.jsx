@@ -14,7 +14,12 @@ const Contact = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_twc6t9r', 'template_v2f6hqe', formRef.current, 'user_RQEnHa8WcicbGha7Ho5na')
+        emailjs.sendForm(
+            'service_twc6t9r',
+            'template_v2f6hqe',
+            formRef.current,
+            'user_RQEnHa8WcicbGha7Ho5na'
+        )
             .then((result) => {
                 console.log(result.text);
                 setDone(true);

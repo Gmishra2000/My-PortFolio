@@ -24,7 +24,7 @@
     left: 50px;
     background-color: #261C2C
     ;
-    opacity: .7;
+    
     
 }
 
@@ -46,11 +46,13 @@
 .a-award-img{
     width: 350px;
     height: 200px;
+    width: 120px;
+    height: 120px;
     
 }
 
 .a-title{
-    font-weight: 400;
+    font-weight: 400;ya
 }
 
 .a-sub{
@@ -69,7 +71,7 @@
 }
 
 .a-award-texts{
-    width: 50%;
+    width: 70%;
 }
 
 .a-award-title{
